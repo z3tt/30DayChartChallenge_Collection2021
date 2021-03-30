@@ -2,13 +2,14 @@
 
 *Collection of contributions to and resources for the first [#30DayChartChallenge](https://twitter.com/30DayChartChall) in April 2021.*
 
+![](img/topics_ol.png)
+
 ## How to contribute?
 
-Anyone is welcome to contribute, no matter which tool you use.
+Anyone is welcome to contribute, no matter which tool you use.  
+If you share your contributions on Twitter, please use the hashtag [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) oand/or tag the [#30DayChartCall account](https://twitter.com/30DayChartChall).
 
 ## Table of content
-
-![](img/topics_ol.png)
 
 |                     |                    |                    | 
 |---------------------|--------------------|--------------------|
