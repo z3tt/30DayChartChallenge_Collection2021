@@ -1,4 +1,6 @@
-# #30DayChartChallenge 2021
+<h1 style="font-weight:normal" align="center">
+  &nbsp;#30DayChartChallenge 2021&nbsp;
+</h1>
 
 *Collection of contributions to and resources for the first [#30DayChartChallenge](https://twitter.com/30DayChartChall) in April 2021.*
 
