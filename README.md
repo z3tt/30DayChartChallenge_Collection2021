@@ -2,7 +2,7 @@
   &nbsp;#30DayChartChallenge 2021&nbsp;
 </h1>
 
-*Collection of contributions to and resources for the first [#30DayChartChallenge](https://twitter.com/30DayChartChall) in April 2021.*
+<i align="center">Collection of contributions to and resources for the first [#30DayChartChallenge](https://twitter.com/30DayChartChall) in April 2021.</i>
 
 ![](img/topics_ol.png)
 
