@@ -1,2 +1,3 @@
-# 30DayChartChallenge_2021
-Colleciton of contributions to and resources for the first #30DayChartChallenge in April 2021
+# #30DayChartChallenge 2021
+
+Collection of contributions to and resources for the first #30DayChartChallenge in April 2021
