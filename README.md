@@ -40,7 +40,7 @@ There are many great selectiuon helpers out there, guiding you through the many 
 exhaustive list:
 
 * [Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic ([latest version](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf))
-* [Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for our overarching topics
+* [Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
 * [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary) by the Financial Times Visual Journalism  — chart choice helpers with lots of further links
   + [interactive version](https://www.ft.com/chart-doctor) 
   + [static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
