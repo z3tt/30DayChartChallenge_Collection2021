@@ -55,3 +55,7 @@ exhaustive list:
   + [D3js code collection](https://www.d3-graph-gallery.com/)
 * [DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of (examples
 * [How to Choose the Right Chart Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/) — another, very compact, decision tree to help you
+
+## Contributions
+
+[Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
