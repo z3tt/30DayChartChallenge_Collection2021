@@ -5,7 +5,7 @@
 ## How to contribute?
 
 Anyone is welcome to contribute, no matter which data source or tool you use.  
-If you share your contributions on Twitter, please use the hashtag [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) and/or tag the [@30DayChartCall account](https://twitter.com/30DayChartChall).
+If you share your contributions on Twitter, please use the hashtag [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) and/or tag the [@30DayChartCall](https://twitter.com/30DayChartChall) account.
 
 ## Topics
 
@@ -41,7 +41,7 @@ You are free to pick whatever data you want—we do not provide any particular d
 
 ### Chart Type Selection
 
-There are many great selectiuon helpers out there, guiding you through the many different boxes you can fit the endless number of (sub)chart types in. Here is a non-exhaustive list:
+There are many great selection helpers out there, guiding you through the many different boxes you can fit the endless number of (sub)chart types in. Here is a non-exhaustive list:
 
 * [Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic ([latest version](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf))
 * [Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
@@ -58,4 +58,5 @@ There are many great selectiuon helpers out there, guiding you through the many 
 
 ## Contributions
 
-[Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
+* [Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
+* [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) on Twitter
