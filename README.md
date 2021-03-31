@@ -19,7 +19,7 @@ We do not care what tool you use. Whatever works for you is fine! Programing, de
 
 ### Data
 
-We do not provide any data oreach of the challenges. You are free to pick whatever data you want. Search the internet, collect your own, visualize daily experiences or funny stats. Nevertheless, we would like to provide a starter kit of possible data sources:
+You are free to pick whatever data you want—we do not provide any particular dataset for each challenge. Either use the same dataset for all or different datasets each day, as you like! Search the internet, collect your own, visualize daily experiences or funny stats. Nevertheless, we would like to provide a starter kit of possible data sources:
 
 * [Google dataset search](https://datasetsearch.research.google.com/)
 * [data.world](https://data.world/)
