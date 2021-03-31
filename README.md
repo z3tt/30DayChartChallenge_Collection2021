@@ -24,7 +24,7 @@ You are free to pick whatever data you want—we do not provide any particular d
 * [Google dataset search](https://datasetsearch.research.google.com/)
 * [data.world](https://data.world/)
 * [kaggle](https://www.kaggle.com/datasets)
-* [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+* [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 * [OurWorldInData](https://ourworldindata.org/)
 * [Eurostats](https://ec.europa.eu/eurostat)
 * [UN Stats](https://unstats.un.org/home/)
@@ -34,10 +34,10 @@ You are free to pick whatever data you want—we do not provide any particular d
 * [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021) (search through old datasets [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018), [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019) and [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020))
 * [IMDB datasets](https://www.imdb.com/interfaces/)
-* [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) — over 1300 datasets originally distributed in R packages
-* [List of R packagesto import data](https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html)
 * [Free GIS data](http://freegisdata.rtwilson.com/)
 * [WorldClim](https://worldclim.org/) — maps, graphs, tables, and data of the global climate
+* [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) — over 1300 datasets originally distributed in R packages
+* [List of R packages to import data](https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html)
 
 ### Chart Type Selection
 
