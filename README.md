@@ -5,7 +5,7 @@
 ## How to contribute?
 
 Anyone is welcome to contribute, no matter which data source or tool you use.  
-If you share your contributions on Twitter, please use the hashtag [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) and/or tag the [#30DayChartCall account](https://twitter.com/30DayChartChall).
+If you share your contributions on Twitter, please use the hashtag [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) and/or tag the [@30DayChartCall account](https://twitter.com/30DayChartChall).
 
 ## Topics
 
