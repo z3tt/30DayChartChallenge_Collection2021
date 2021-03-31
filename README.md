@@ -25,6 +25,7 @@ We do not provide any data oreach of the challenges. You are free to pick whatev
 * [data.world](https://data.world/)
 * [kaggle](https://www.kaggle.com/datasets)
 * [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+* [OurWorldInData](https://ourworldindata.org/)
 * [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021) (search through old datasets [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018), [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019) and [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020))
 * [IMDB datasets](https://www.imdb.com/interfaces/)
