@@ -53,6 +53,7 @@ There are many great selectiuon helpers out there, guiding you through the many 
   + [Python code collection](https://www.python-graph-gallery.com/)
   + [D3js code collection](https://www.d3-graph-gallery.com/)
 * [DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of examples
+* [Visualization Universe](http://visualizationuniverse.com/) by Adioma and Google News Lab
 * [How to Choose the Right Chart Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/) — another, very compact, decision tree to help you
 
 ## Contributions
