@@ -27,8 +27,10 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 **Further links:**
 
 * [Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
-* [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) on Twitter## Resources
+* [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) on Twitter
 
+
+## Resources
 
 ### Tools
 
