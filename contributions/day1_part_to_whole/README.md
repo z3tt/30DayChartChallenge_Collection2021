@@ -94,5 +94,5 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/tim_schoof.jpg)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/vizcrazy.png.png)
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/vizcrazy.png)
 [d3 Animation](https://observablehq.com/embed/@urmilaj/phylogeny?cells=chart)
