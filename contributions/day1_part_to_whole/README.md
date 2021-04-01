@@ -8,6 +8,8 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/amit_levinson.png)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/colin_angus.jpg)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/david_white.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/dominic_roye.jpg)
@@ -22,4 +24,8 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/linda_bennett.png)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/michael_berry.png)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/mo_wootten.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/ryan_hart.jpg)
