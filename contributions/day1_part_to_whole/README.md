@@ -4,7 +4,8 @@
 <p align="center"><em>Contributions are listed alphabetically.</em></p>
 <br>
 
-
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/ajay_varghese.jpg)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/alan_kinene.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/alejandro_gomez_pazo.jpg)
@@ -21,6 +22,10 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/cedric_scherer.png)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/chris_keller.png)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/christophe_nicault.png)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/claudio_castro.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/colin_angus.jpg)
@@ -28,6 +33,10 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/daniel_isita.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/david_white.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/desUC.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/dilyana_bossenz.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/dominic_roye.jpg)
 ***
@@ -51,6 +60,8 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/jessica_desrochers.jpg)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/joanna_prout.jpg)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/john_mutiso.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/kelvin_tang.png)
@@ -66,6 +77,14 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/lorna_brown.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/maelle_am.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/maia_pelletier.png)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/maria_rosa_morales.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/max_thamt.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/melody_premaillon.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/michael_berry.png)
 ***
@@ -92,6 +111,8 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/sara_acevedo.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/sarah_ahannes.png)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/sarah_ennis.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/sarah_enouy.jpg)
 ***
