@@ -92,6 +92,8 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/mo_wootten.jpg)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/naimish_keswani.jpg)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/netra_bhandari.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/pamela_schultz.jpg)
