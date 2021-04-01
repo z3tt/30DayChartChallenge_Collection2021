@@ -4,6 +4,9 @@
 <p align="center"><em>Contributions are listed alphabetically.</em></p>
 <br>
 
+
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/alan_kinene.jpg)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/alejandro_gomez_pazo.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/alenka_gucek.png)
@@ -28,17 +31,27 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/dominic_roye.jpg)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/georgios_karamanis.png)
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/emanuel_haas.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/georgios_karamanis.png)<br>
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/georgios_karamanis_2.png)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/iljeamka_a.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/ilya_kashnitsky.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/infometricsNZ.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/jake_kaupp_1.jpg)<br>
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/jake_kaupp_2.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/jan_philipp_kolb.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/javi_martinez.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/jessica_desrochers.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/john_mutiso.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/kelvin_tang.png)
 ***
@@ -55,6 +68,8 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/maelle_am.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/michael_berry.png)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/mihaela_bozukova.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/mo_wootten.jpg)
 ***
