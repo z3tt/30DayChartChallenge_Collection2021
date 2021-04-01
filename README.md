@@ -21,7 +21,7 @@ Collection of all contributions per day (shared on Twitter with the hashtag and/
 
 *Further links:*
 
-* [Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
+* [Dedicated list of #Rstats contributions](https://github.com/dominicroye/rstats-chart-challenge-2021)
 * [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) on Twitter
 
 
