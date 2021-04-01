@@ -14,17 +14,12 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 
 ## Contributions
 
-**Collection of all contributions** (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account)
+Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account)
 
-<details>
-  <summary>Comparisons</summary>
-  
-  <ul>
-  <li><a href="https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day1_part_to_whole">Day 1: Part-to-whole</a>
+**Comparisons:**
+* [Day 1: Part-to-whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day1_part_to_whole)
 
-</details>
-
-**Further links:**
+*Further links:*
 
 * [Collection of contributions done in #Rstats](https://github.com/dominicroye/rstats-chart-challenge-2021)
 * [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge) on Twitter
