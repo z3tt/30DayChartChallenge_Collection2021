@@ -57,7 +57,7 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/emanuel_haas.jpg)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/emily_galvin.jpg)
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/emily_galvin.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/georgios_karamanis.png)<br>
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/georgios_karamanis_2.png)
@@ -207,8 +207,6 @@
 [Link to Animation](https://observablehq.com/embed/@urmilaj/phylogeny?cells=chart)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/wendy_shijia.png)
-***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/white_rabbit.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/day1_part_to_whole/white_rabbit.png)
 ***
