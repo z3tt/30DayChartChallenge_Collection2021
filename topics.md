@@ -10,7 +10,7 @@
 * Distributions\
   7. physical\
   8. animals\
-  9. statisticsv
+  9. statistics\
   10. abstract\
   11. circular\
   12. strips
@@ -26,8 +26,8 @@
   20. upwards\
   21. downwards\
   22. animation\
-  23. tiles
-  24. monochrome\
+  23. tiles\
+  24. monochrome
 * Uncertainties\
   25. demographic\
   26. trends\
