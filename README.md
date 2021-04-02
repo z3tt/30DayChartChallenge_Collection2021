@@ -11,6 +11,7 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 
 ![](img/topics_ol_blank.png)
 
+&rarr; [List of Topics](https://github.com/Z3tt/30DayChartChallenge_Collection2021/blob/main/topics.md)
 
 ## Contributions
 
