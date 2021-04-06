@@ -15,10 +15,14 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 
 ## Contributions
 
-Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account)
+Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account). For now just named images in a folder—hopefully going to clean it up once the challenge is over.
 
 **Comparisons:**
 * [Day 1: Part-to-whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day1_part_to_whole)
+* [Day 2: Pictorgram](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day2_pictogram)
+* [Day 3: Historical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day3_historical)
+* [Day 4: Magical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day4_magical)
+* [Day 5: Slope](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day5_slope)
 
 *Further links:*
 
