@@ -170,6 +170,8 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/michael_berry.png)
 ***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/michelle_deschenes.png)
+***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/mihaela_bozukova.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/mireia_camacho.jpg)
@@ -188,7 +190,9 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/paul_apivat.png)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/paula_casado.jpg
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/paula_casado.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/paula_quitral.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/piyayut_chitchumnong.png)
 ***
@@ -216,7 +220,7 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sara_acevedo.jpg)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sarah_ahannes.png)
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sarah_annes.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sarah_ennis.png)
 ***
@@ -229,6 +233,8 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/shweta.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sian_bladon.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/simon_leech.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/sophie_stroisch.jpg)
 ***
