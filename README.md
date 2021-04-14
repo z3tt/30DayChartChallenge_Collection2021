@@ -18,11 +18,24 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account). For now just named images in a folder—hopefully going to clean it up once the challenge is over.
 
 **Comparisons:**
-* [Day 1: Part-to-whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day1_part_to_whole)
-* [Day 2: Pictorgram](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day2_pictogram)
-* [Day 3: Historical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day3_historical)
-* [Day 4: Magical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day4_magical)
-* [Day 5: Slope](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/day5_slope)
+* [Day 1: Part-to-whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/01_part_to_whole)
+* [Day 2: Pictorgram](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/02_pictogram)
+* [Day 3: Historical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/03_historical)
+* [Day 4: Magical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/04_magical)
+* [Day 5: Slope](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/05_slope)
+* [Day 6: Experimental](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/06_experimental)
+
+**Distributions:**
+* [Day 7: Physical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/07_physical)
+* [Day 8: Animals](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/08_animals)
+* [Day 9: Statistics](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/09_statistics)
+* [Day 10: Abstract](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/10_abstract)
+* [Day 11: Circular](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/11_circular)
+* [Day 12: Strips](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/12_strips)
+
+**Relationships:**
+* [Day 13: Correlation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/13_correlation)
+* [Day 14: Space](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/14_space)
 
 *Further links:*
 
@@ -65,7 +78,7 @@ There are many great selection helpers out there, guiding you through the many d
 * [Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic ([latest version](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf))
 * [Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
 * [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary) by the Financial Times Visual Journalism  — chart choice helpers with lots of further links
-  + [interactive version](https://www.ft.com/chart-doctor) 
+  + [interactive version](https://www.ft.com/chart-doctor)
   + [static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
 * [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz — interactive, with information and codes for each chart type
   + [R code collection](https://www.r-graph-gallery.com/)
