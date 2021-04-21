@@ -168,7 +168,7 @@
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/maria_rosa_morales.jpg)
 ***
-![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/max_thamt.jpg)
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/max_tham.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/maya_gans.png)
 ***
@@ -255,6 +255,8 @@
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/tessa_e.png)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/tim_schoof.jpg)
+***
+![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/tugce_saka.jpg)
 ***
 ![](https://raw.githubusercontent.com/Z3tt/30DayChartChallenge_Collection2021/main/contributions/01_part_to_whole/vinicius_barqueiro.jpg)
 ***
