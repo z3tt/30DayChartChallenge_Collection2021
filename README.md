@@ -55,7 +55,7 @@ Collection of all contributions per day (shared on Twitter with the hashtag and/
 * [Day 27: Educational](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/27_educational)
 * [Day 28: Future](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/28_future)
 * [Day 29: Deviations](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/29_deviations)
-* [Day 30: 3D](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/30_3d)
+* [Day 30: 3D](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/30_3D)
 
 *Further links:*
 
