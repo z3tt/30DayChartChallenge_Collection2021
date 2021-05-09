@@ -17,7 +17,7 @@ make_collage <- function(day, path){
   ## change working directory
   setwd(path)
   ## turn png's into jpg's
-  system("magick mogrify -format jpg *.png")
+  #system("magick mogrify -format jpg *.png")
   ## resize all jpg's
   system("magick convert *.jpg -resize 960x720 -gravity center -background white -extent 960x720 resized-%03d.jpg")
   ## create grid of all resized jpg's
