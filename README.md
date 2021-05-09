@@ -18,7 +18,7 @@ If you share your contributions on Twitter, please use the hashtag [#30DayChartC
 Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account). For now just named images in a folder—hopefully going to clean it up once the challenge is over.
 
 **Comparisons:**
-* [Day 1: Part-to-whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/01_part_to_whole)
+* [Day 1: Part-to-Whole](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/01_part_to_whole)
 * [Day 2: Pictorgram](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/02_pictogram)
 * [Day 3: Historical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/03_historical)
 * [Day 4: Magical](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/04_magical)
@@ -37,6 +37,25 @@ Collection of all contributions per day (shared on Twitter with the hashtag and/
 * [Day 13: Correlation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/13_correlation)
 * [Day 14: Space](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/14_space)
 * [Day 15: Multivariate](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/15_multivariate)
+* [Day 16: Trees](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/16_trees)
+* [Day 17: Pop Culture](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/17_pop_culture)
+* [Day 18: Connections](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/18_connections)
+
+**Timeseries:**
+* [Day 19: Global Change](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/19_global_change)
+* [Day 20: Upwards](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/20_upwards)
+* [Day 21: Downwards](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/21_downwards)
+* [Day 22: Animation](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/22_animation)
+* [Day 23: Tiles](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/23_tiles)
+* [Day 24: Monochrome](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/24_monochrome)
+
+**Uncertainties:**
+* [Day 25: Demographic](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/25_demographic)
+* [Day 26: Trends](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/26_trends)
+* [Day 27: Educational](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/27_educational)
+* [Day 28: Future](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/28_future)
+* [Day 29: Deviations](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/29_deviations)
+* [Day 30: 3D](https://github.com/Z3tt/30DayChartChallenge_Collection2021/tree/main/contributions/30_3d)
 
 *Further links:*
 
