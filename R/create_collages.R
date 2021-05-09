@@ -24,6 +24,8 @@ make_collage <- function(day, path){
   system(glue("magick montage -density 700 -tile 8x0 -geometry +10+10 -border 0 resized*.jpg {day}_collage.jpg"))
   ## delete resized jpg's
   unlink("resized*")
+  ## delete png's
+  unlink("*.png")
 }
 
 ## map over all days
