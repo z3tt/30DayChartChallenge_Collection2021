@@ -17,11 +17,13 @@ make_collage <- function(day, path){
   ## change working directory
   setwd(path)
   ## turn png's into jpg's
-  #system("magick mogrify -format jpg *.png")
+  system("magick mogrify -format jpg *.png")
   ## resize all jpg's
   system("magick convert *.jpg -resize 960x720 -gravity center -background white -extent 960x720 resized-%03d.jpg")
+  ## add border
+  system("magick mogrify -bordercolor black -border 3 -format jpg resized*.jpg")
   ## create grid of all resized jpg's
-  system(glue("magick montage -density 700 -tile 8x0 -geometry +10+10 -border 0 resized*.jpg {day}_collage.jpg"))
+  system(glue("magick montage -density 100 -tile 4x0 -geometry +5+5 -border 0 resized*.jpg {day}_collage.jpg"))
   ## delete resized jpg's
   unlink("resized*")
   ## delete png's
